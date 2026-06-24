@@ -10,9 +10,9 @@ project_directories=(
 other_directories=(
   ~/.config/nvim
   ~/.local/share/chezmoi
-  ~/Music
   ~/Vaults/notes
   ~/Vaults/sp-notes
+  ~/dotfiles
 )
 
 if [[ $# -eq 1 ]]; then
