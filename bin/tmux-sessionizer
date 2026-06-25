@@ -12,7 +12,10 @@ other_directories=(
   ~/.local/share/chezmoi
   ~/Vaults/notes
   ~/Vaults/sp-notes
-  ~/dotfiles
+  ~/.config/nvim
+  ~/.config/tmux
+  ~/.config/tmuxinator
+  ~/.config/opencode
 )
 
 use_tmuxinator=false
