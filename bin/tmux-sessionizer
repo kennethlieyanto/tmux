@@ -5,17 +5,13 @@ project_directories=(
   ~/Projects/github
   ~/Projects/godot
   ~/Projects/playground
+  ~/dotfiles
 )
 
 other_directories=(
-  ~/.config/nvim
   ~/.local/share/chezmoi
   ~/Vaults/notes
   ~/Vaults/sp-notes
-  ~/.config/nvim
-  ~/.config/tmux
-  ~/.config/tmuxinator
-  ~/.config/opencode
   ~/nix-config
 )
 
