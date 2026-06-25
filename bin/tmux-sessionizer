@@ -16,6 +16,7 @@ other_directories=(
   ~/.config/tmux
   ~/.config/tmuxinator
   ~/.config/opencode
+  ~/nix-config
 )
 
 use_tmuxinator=false
