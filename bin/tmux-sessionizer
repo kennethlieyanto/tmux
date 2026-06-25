@@ -73,7 +73,7 @@ selected_name=$(basename "$selected" | tr . _)
 tmux_running=$(pgrep tmux)
 
 if $use_tmuxinator; then
-  cd "$selected" && tmuxinator start default
+  cd "$selected" && tmuxinator start default --name "$selected_name"
   exit 0
 fi
 
