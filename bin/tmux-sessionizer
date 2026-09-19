@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 project_directories=(
-  ~/Projects/work
-  ~/Projects/personal
-  ~/Projects/github
-  ~/Projects/godot
-  ~/Projects/playground
+  ~/projects/work
+  ~/projects/personal
+  ~/projects/github
+  ~/projects/godot
+  ~/projects/playground
   ~/dotfiles
 )
 
